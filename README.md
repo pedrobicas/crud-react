@@ -65,6 +65,7 @@ npm start
 ## Tecnologia Usada
 
 - [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://pt-br.reactjs.org)
+- [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 
 
 ## Desenvolvedores :octocat:
