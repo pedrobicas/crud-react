@@ -18,7 +18,7 @@
 ## Descrição do projeto 
 
 <p align="justify">
-  Projeto feito com fins academicos, da materia PWFE e PWBE (FrontEnd e BackEnd), com o objetivo de fazer um crud, onde utilamos o React como biblioteca de desenvolvimento.
+  Projeto feito com fins academicos, da materia PWFE e PWBE (FrontEnd e BackEnd), com o objetivo de fazer um crud, onde utiliza o React como biblioteca de desenvolvimento.
 </p>
 
 ## Pré-requisitos
@@ -66,12 +66,6 @@ npm start
 
 - [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://pt-br.reactjs.org)
 - [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
-
-
-## Desenvolvedores :octocat:
-
-| [<img src="https://avatars.githubusercontent.com/u/91327153?v=4" width=115><br><sub>Vinicius Souza</sub>](https://github.com/Vinicius-Souza-Araujo) |  [<img src="https://avatars.githubusercontent.com/u/91341241?v=4" width=115><br><sub>Paula Barboza</sub>](https://github.com/Paula-Barboza) |  [<img src="https://avatars.githubusercontent.com/u/91340426?v=4" width=115><br><sub>Rafael Rossi</sub>](https://github.com/rafaellrossi) | [<img src="https://avatars.githubusercontent.com/u/88379213?v=4" width=115><br><sub>Pedro Bicas</sub>](https://github.com/PedroBicas) | [<img src="https://avatars.githubusercontent.com/u/91709564?v=4" width=115><br><sub>Rayane Campos</sub>](https://github.com/RayaneCamposs) |
-| :---: | :---: | :---: | :---: | :---: 
 
 
 ## Licença 
